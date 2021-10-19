@@ -1,9 +1,9 @@
 <h1 align="center"> Bringing 
-👁visions👁 
-of 
-💖a better tomorrow💖 
-to 
-✨reality💫
+<br>👁visions👁 
+<br>of 
+<br>💖a better tomorrow💖 
+<br>to 
+<br>✨reality💫
 </h1>
 <!--
 **saunic/saunic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
