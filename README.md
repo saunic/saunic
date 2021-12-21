@@ -1,7 +1,7 @@
 <h1 align="center"> Bringing 
-<br>👁visions👁 
+<brvision
 <br>of 
-<br>💖a better tomorrow💖 
+<bra better tomorrow
 <br>to 
 <br>✨reality💫
 </h1>
